@@ -2,8 +2,6 @@
 
 A full-stack blog application built with Next.js, featuring dynamic content rendering, comment functionality, and search capabilities.
 
-![Blog App Preview](https://via.placeholder.com/800x400.png?text=Blog+App+Preview)
-
 ## Features
 
 - **Dynamic Post Rendering**: View detailed blog posts with dynamic routing
