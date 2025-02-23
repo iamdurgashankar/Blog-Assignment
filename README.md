@@ -37,18 +37,3 @@ A full-stack blog application built with Next.js, featuring dynamic content rend
 3. Start development server:
    npm run dev
 4. Open in your browser: http://localhost:3000
-
-**Project Structure**
-   src/
-├── app/
-│   ├── posts/
-│   │   └── [postId]/
-│   │       └── page.tsx  # Dynamic post page
-├── components/
-│   ├── BlogContainer.tsx # Post card component
-│   ├── BlogPosts.tsx     # Posts listing
-│   ├── CommentForm.tsx   # Comment submission
-│   └── CommentList.tsx   # Comments display
-├── lib/
-│   └── api.ts            # API handlers
-public/                   # Static assets
